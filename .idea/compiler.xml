@@ -4,6 +4,8 @@
     <bytecodeTargetLevel>
       <module name="demo_hibernate_springmvc_main" target="1.8" />
       <module name="demo_hibernate_springmvc_test" target="1.8" />
+      <module name="logistics_main" target="1.8" />
+      <module name="logistics_test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

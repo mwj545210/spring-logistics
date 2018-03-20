@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/demo_hibernate_springmvc.iml" filepath="$PROJECT_DIR$/.idea/modules/demo_hibernate_springmvc.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/demo_hibernate_springmvc_main.iml" filepath="$PROJECT_DIR$/.idea/modules/demo_hibernate_springmvc_main.iml" group="demo_hibernate_springmvc" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/demo_hibernate_springmvc_test.iml" filepath="$PROJECT_DIR$/.idea/modules/demo_hibernate_springmvc_test.iml" group="demo_hibernate_springmvc" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/logistics.iml" filepath="$PROJECT_DIR$/.idea/modules/logistics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/logistics_main.iml" filepath="$PROJECT_DIR$/.idea/modules/logistics_main.iml" group="logistics" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/logistics_test.iml" filepath="$PROJECT_DIR$/.idea/modules/logistics_test.iml" group="logistics" />
     </modules>
   </component>
 </project>
